@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run AI Writing Fingerprint",
+			"type": "shell",
+			"command": "bash ./run.sh",
+			"isBackground": true,
+			"problemMatcher": []
+		}
+	]
+}
